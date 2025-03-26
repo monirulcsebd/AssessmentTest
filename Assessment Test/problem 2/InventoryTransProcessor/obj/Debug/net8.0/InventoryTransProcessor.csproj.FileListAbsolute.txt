@@ -1,0 +1,14 @@
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\bin\Debug\net8.0\InventoryTransProcessor.exe
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\bin\Debug\net8.0\InventoryTransProcessor.deps.json
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\bin\Debug\net8.0\InventoryTransProcessor.runtimeconfig.json
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\bin\Debug\net8.0\InventoryTransProcessor.dll
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\bin\Debug\net8.0\InventoryTransProcessor.pdb
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.AssemblyInfoInputs.cache
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.AssemblyInfo.cs
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.csproj.CoreCompileInputs.cache
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.dll
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\refint\InventoryTransProcessor.dll
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.pdb
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\InventoryTransProcessor.genruntimeconfig.cache
+C:\Users\monir\OneDrive\Desktop\Assessment Test\InventoryTransProcessor\InventoryTransProcessor\obj\Debug\net8.0\ref\InventoryTransProcessor.dll

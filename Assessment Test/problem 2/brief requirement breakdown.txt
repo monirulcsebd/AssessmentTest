@@ -1,0 +1,10 @@
+Task Understanding and Coding Approach are given below:
+
+1.Transaction class to store transaction details
+2.In-memory list to store transactions
+3.Auto-increment transaction ID
+4.calling child function from main function by adding Choose an option
+5.Add transaction category wise with amount
+6.View Transaction List
+7.For summary report, group by Category and calculate total amount
+8.Display results of summary report
